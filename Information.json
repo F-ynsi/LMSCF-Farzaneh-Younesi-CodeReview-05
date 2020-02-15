@@ -1,0 +1,32 @@
+var library = [
+    {
+        "name": "Joker",
+        "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "image": "img/Joker.jpg"
+    },
+    {
+        "name": "Jojo Rabit",
+        "description": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",
+        "image": "img/Jojo Rabit.jpg"
+    },
+    {
+        "name": "Once Upon a Time In Hollywood",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "image": "img/Once Upon a Time In Hollywood.jpg"
+    },
+    {
+        "name": "Parasite",
+        "description": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+        "image": "img/Parasite.jpg"
+    },
+    {
+        "name": "Green Book",
+        "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "image": "Green Book.jpg"
+    },
+    {
+        "name": "Toy Story 4",
+        "description": "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+        "image": "img/Toy Story 4.jpg"
+    },
+]
