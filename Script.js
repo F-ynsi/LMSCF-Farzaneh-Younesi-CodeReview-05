@@ -17,7 +17,7 @@ const addLike = function(mimi) {
 for (var i = 0; i < moviesAll.length; i++) {
 	var info =
 	`<div id="container" class="col-lg-5 media text-white p-3 mb-5">
-    <img class="media-left pr-3" alt="Image" src="${moviesAll[i].image}">
+    <img class="media-left pr-3" alt="Image" width="150px" src="${moviesAll[i].image}">
     <div class="media-body">
         <h3>${moviesAll[i].name}</h3>
         <p class="cardText">${moviesAll[i].description}</p>
